@@ -4554,19 +4554,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Apple\\.nuget\\packages\\": {}
+    "C:\\Users\\Click\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
+      "projectUniqueName": "C:\\Users\\Click\\Desktop\\shop\\shopSample\\projedb.csproj",
       "projectName": "projedb",
-      "projectPath": "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
-      "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Apple\\Desktop\\projedb\\obj\\",
+      "projectPath": "C:\\Users\\Click\\Desktop\\shop\\shopSample\\projedb.csproj",
+      "packagesPath": "C:\\Users\\Click\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Click\\Desktop\\shop\\shopSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Click\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4633,7 +4633,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
