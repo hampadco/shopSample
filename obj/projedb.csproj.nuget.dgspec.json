@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj": {}
+    "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj": {
+    "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
+        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
         "projectName": "projedb",
-        "projectPath": "c:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
+        "projectPath": "C:\\Users\\Apple\\Desktop\\projedb\\projedb.csproj",
         "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Apple\\Desktop\\projedb\\obj\\",
+        "outputPath": "C:\\Users\\Apple\\Desktop\\projedb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,6 +52,8 @@
               "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
             },
